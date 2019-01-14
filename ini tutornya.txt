@@ -1,0 +1,126 @@
+helo guys.
+jadi untuk memulai nuyul caranya itu kalian harus mengcopy dulu link keynya kalian dari situs autoclain faucethub.
+untuk link situsnya, kalian bisa gunakan link di bawah, kemudia daftar dan masukan walet kalia, lalu jika kalian sudah daftar dan claimnya berjalan, maka slain link yag ada di bar pencarian,
+kalo ip ter blokir kalian skipe aja jngn pake linknya.
+dan kalo ada eror kalian refres kemudian salin linknya, setelah itu kalian buka file yang bernama allkey.txt dan kalian ganti menggunakan link key kalian tadi cara gantinya kalian pake aplikasi anwriter free,.
+untuk lebih jelasnya silahkan kunjungi chanel youtub "BUGSAR CHANEL" di sana ada tutornya.
+
+kemudian setelah selesai semua itu jalan kan termuxnya.
+perintah :
+pkg update && pkg upgrade
+pkg install git
+pkg install php
+pkg install curl
+pkg install wget
+termux-setup-storage
+cd /sdcard/tuyulfc (tuyulfc adalah nama polder file saya, jika polder kalian berbeda, sesuaikan)
+php bug.php 
+lanjut mas bro
+done tuyul kalian akan berjalan
+
+selamat mencoba🙃
+
+
+
+
+link auto claim
+
+LTC
+
+http://auto4.eaglezz.com?r=LWtaRBxJVGKD9pqqctV4LNvbvCsv8QLwVN&rc=LTC
+
+http://auto1.eaglezz.com?r=LWtaRBxJVGKD9pqqctV4LNvbvCsv8QLwVN&rc=LTC
+
+http://faucet.doxhut.com?r=LWtaRBxJVGKD9pqqctV4LNvbvCsv8QLwVN&rc=LTC
+
+http://auto.eaglezz.com?r=LWtaRBxJVGKD9pqqctV4LNvbvCsv8QLwVN&rc=LTC
+
+http://ltcauto.100count.net/?r=LWtaRBxJVGKD9pqqctV4LNvbvCsv8QLwVN&rc=LTC
+
+https://eaglezz.com?r=LWtaRBxJVGKD9pqqctV4LNvbvCsv8QLwVN&rc=LTC
+
+
+https://allcoinz.000webhostapp.com/?r=LWtaRBxJVGKD9pqqctV4LNvbvCsv8QLwVN&rc=LTC
+
+https://dutchy-earn.000webhostapp.com/?r=LWtaRBxJVGKD9pqqctV4LNvbvCsv8QLwVN&rc=LTC
+
+https://faucet.dutchycorp.space//?r=LWtaRBxJVGKD9pqqctV4LNvbvCsv8QLwVN&rc=LTC
+
+
+http://autocoins.xyz?r=LWtaRBxJVGKD9pqqctV4LNvbvCsv8QLwVN&rc=LTC
+
+ETH
+
+http://auto4.eaglezz.com?r=0x0fc87ee4c59a246421ef0da916b3ae43c5615b67&rc=ETH
+
+http://auto1.eaglezz.com?r=0x0fc87ee4c59a246421ef0da916b3ae43c5615b67&rc=ETH
+
+http://auto.eaglezz.com?r=0x0fc87ee4c59a246421ef0da916b3ae43c5615b67&rc=ETH
+
+http://ethauto.100count.net/?r=0x0fc87ee4c59a246421ef0da916b3ae43c5615b67&rc=ETH
+
+https://eaglezz.com?r=0x0fc87ee4c59a246421ef0da916b3ae43c5615b67&rc=ETH
+
+https://dutchy-earn.000webhostapp.com/?r=0x0fc87ee4c59a246421ef0da916b3ae43c5615b67&rc=ETH
+
+BCH
+
+https://dutchy-earn.000webhostapp.com
+
+Doge
+
+http://auto.eaglezz.com?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+http://auto1.eaglezz.com?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+http://auto4.eaglezz.com?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+https://onmode.000webhostapp.com/?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+https://autofaucet.soovflix.online/r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+https://autofaucet.soovflix.online/r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+
+
+https://faucet.dutchycorp.space//?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+https://autofaucet.soovflix.online/r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+https://leveluptime.000webhostapp.com/?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+
+http://offmode.000webhostapp.com/?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+https://www.auto1.hometronik.com/?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+https://fhaflite.000webhostapp.com/?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+https://hakameaf.000webhostapp.com/?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+https://eaglezz.com?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+https://faucet.dutchycorp.space//?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+
+http://deadsats.com/autofaucet?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+http://auto.japakar.com?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+https://rocket-one.space?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+http://autocoins.xyz?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+
+https://faucet.dutchycorp.space//?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+
+http://dogeauto.100count.net/?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+
+https://allcoinz.000webhostapp.com/?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+http://www.autodogecoin.ml?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
+http://faucet.doxhut.com?r=D7YKQ7GLiD6rPcMLELwvXTa93QRfSsJiht&rc=DOGE
+
