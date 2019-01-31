@@ -1,0 +1,5 @@
+http://100count.net/faucet/network/mine/eth/faucet.php?address=0x1d386f617fbb789ccf19696e59cde0c16e556adf&currency=ETH&key=fec22879dae39e96212df92658a78a4c2e51f849&t=1549040315
+faucet.dutchycorp.space/auto1min/faucet.php?address=0x1d386f617fbb789ccf19696e59cde0c16e556adf&currency=ETH&action=&miner=on&key=4aba09471c26122c66242f72451802a3
+auto.eaglezz.com/faucet.php?r=0x0fc87ee4c59a246421ef0da916b3ae43c5615b67&rc=ETH&address=0x1d386f617fbb789ccf19696e59cde0c16e556adf&currency=ETH&key=386019381a47893b39d30cdf6408f833
+auto4.eaglezz.com/faucet.php?address=0x1d386f617fbb789ccf19696e59cde0c16e556adf&currency=ETH&key=386019381a47893b39d30cdf6408f833
+faucet.dutchycorp.space/auto2min/faucet.php?address=0x1d386f617fbb789ccf19696e59cde0c16e556adf&currency=ETH&action=&miner=on&key=4aba09471c26122c66242f72451802a3
